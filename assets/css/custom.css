@@ -1,0 +1,9 @@
+.post-meta .meta-label::before,
+.post-meta .author::before,
+.post-meta time::before {
+  content: none !important;
+}
+.post-meta .separator {
+  margin: 0 5px;
+  color: #666;
+}
