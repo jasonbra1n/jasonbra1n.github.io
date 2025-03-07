@@ -12,4 +12,5 @@ This is my first post on my new Jekyll site, powered by the Chirpy theme. I’m 
 - Tweak the design to match Astra’s style.
 - Add more posts and code snippets.
 - Enjoy a free, fast, hosted blog with seamless updates!
+- Test more
 Thanks for reading!
