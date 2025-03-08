@@ -1,6 +1,6 @@
 ---
 title: "Full Circle: From Code to Beats and Back Again"
-date: 2025-03-06
+date: 2025-03-07
 author: "Jason"
 layout: post
 categories: blog 
