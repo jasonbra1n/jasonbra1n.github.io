@@ -11,6 +11,8 @@ Below is an embedded version of the script:
 
 <iframe src="https://jasonbra1n.github.io/calculator/" width="400" height="600" style="border:none;"></iframe>
 
+You can find the public repository for the code [here on GitHub](https://github.com/jasonbra1n/calculator).
+
 By hosting it on GitHub, I can update and refine it while keeping the integration seamless. This approach makes it easier to share and experiment with interactive elements across different platforms.  
 
 Stay tuned for more experiments as I continue to explore AI and web development!
