@@ -3,6 +3,7 @@ title: "Full Circle: From Code to Beats and Back Again"
 date: 2025-03-06
 author: "Jason"
 layout: post
+categories: blog 
 tags: [tech, coding, github, djing, career]
 ---
 
