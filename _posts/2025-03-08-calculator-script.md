@@ -1,7 +1,7 @@
 ---
 title: "AI & Coding: Embedding Scripts in WordPress & GitHub"
 date: 2025-03-08
-categories: blog coding
+categories: blog coding math-calculator
 layout: post
 ---
 
