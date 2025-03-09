@@ -58,8 +58,9 @@ webmaster_verifications:
 
 # Web Analytics Settings
 analytics:
+  provider: "google-gtag"
   google:
-    id: # fill in your Google Analytics ID
+    measurement_id: "G-HTQLXY0B6E"  # Replace with your actual GA4 Measurement ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
