@@ -32,6 +32,13 @@ For example, if you select March 1st to March 5th:
 
 It’s a clean, no-frills tool that I’ve found useful for quick date math—whether for project planning, tracking deadlines, or just satisfying curiosity.
 
+## What’s New
+
+I’ve improved the calculator to be more flexible:
+- **Responsive Design**: It scales to 90% of its container’s width (up to 400px), so it fits iframes without horizontal scrollbars.
+- **Height Adjustment**: The layout adapts to its content, reducing vertical scrollbars unless necessary.
+- **Mobile-Friendly**: Smaller screens get adjusted padding and font sizes.
+
 ## How It Works
 
 The calculator is a single HTML file with embedded CSS and JavaScript. Here’s a quick breakdown:
