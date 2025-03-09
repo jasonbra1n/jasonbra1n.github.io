@@ -1,7 +1,7 @@
 ---
 title: "AI & Coding: Embedding Scripts in WordPress & GitHub"
 date: 2025-03-08
-categories: coding ai
+categories: blog coding
 layout: post
 ---
 
