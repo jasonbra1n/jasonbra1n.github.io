@@ -1,7 +1,7 @@
 ---
-title: "AI & Coding: Embedding Scripts in WordPress & GitHub"
+title: "Introducing My Basic Calculator Script"
 date: 2025-03-08
-categories: blog coding math-calculator
+categories: [blog, Projects]
 layout: post
 ---
 
