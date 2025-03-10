@@ -2,6 +2,7 @@
 title: "Introducing My Basic Calculator Script"
 date: 2025-03-08
 categories: [blog, Projects]
+tags: [web-development, tools, calculator]
 layout: post
 ---
 
