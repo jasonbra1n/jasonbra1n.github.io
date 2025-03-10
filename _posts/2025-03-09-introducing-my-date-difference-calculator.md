@@ -1,5 +1,5 @@
 ---
-title: "Introducing My Date Difference Calculator 🧮"
+title: "Introducing My Date Difference Calculator"
 date: 2025-03-09 12:00:00 -0500
 categories: [blog, Projects, JavaScript]
 tags: [web-development, tools, calculator]
