@@ -5,7 +5,7 @@ categories: [blog, Projects, JavaScript]
 tags: [web-development, tools, calculator]
 ---
 
-# Introducing My Date Difference Calculator 💻
+# Introducing My Date Difference Calculator
 
 I’ve been working on a small but handy tool recently: a **Date Difference Calculator** 📅. It’s a simple web-based utility that calculates the number of days between two dates, with an option to include the end date in the count. I built it using HTML, CSS, and JavaScript, and I’m excited to share it with you! 🚀
 
