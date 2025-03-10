@@ -13,7 +13,7 @@ Hey there, fellow explorers.. and brainiacs! 🌟 I’ve built a **Gematria Calc
 ### What’s Gematria? 🤔
 Gematria is an ancient numerology system that assigns numerical values to letters, words, or phrases. Originating from Hebrew and Greek traditions, it’s now a trending topic online, with tons of sites decoding names and phrases for hidden meanings. Think of it as a secret code decoder for words! 🔍 Whether it’s for fun, curiosity, or uncovering patterns, Gematria is everywhere these days.
 
-I wanted my own spin on it—a free, open-source script I could embed on my pages and share with you all to tweak and improve. No gatekeeping here! 🙌
+I wanted my own spin on it — a free, open-source script I could embed on my pages and share with you all to tweak and improve. No gatekeeping here! 🙌
 
 ---
 
