@@ -6,7 +6,7 @@ categories: [blog, Projects]
 tags: [gematria, calculator, iframe, open-source, numerology, tools]
 ---
 
-Hey there, fellow explorers! 🌟 I’ve built a **Gematria Calculator** that I’m super excited to share with you. It’s hosted at [jasonbra1n/gematria-calculator](https://github.com/jasonbra1n/gematria-calculator) and embedded below as an iframe. Let’s dive into what Gematria is, how to use this tool, and a mind-blowing discovery I made with "Wayne Gretzky"! 🏒
+Hey there, fellow explorers.. and brainiacs! 🌟 I’ve built a **Gematria Calculator** that I’m super excited to share with you. It’s hosted at [jasonbra1n/gematria-calculator](https://github.com/jasonbra1n/gematria-calculator) and embedded below as an iframe. Let’s dive into what Gematria is, how to use this tool, and a mind-blowing discovery I made with "Wayne Gretzky"! 🏒
 
 ---
 
