@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gematria Calculator: Decode Words with My Custom Script!"
-date: 2025-03-09 12:00:00 -0000
+date: 2025-03-10 12:00:00 -0000
 categories: [blog, Projects]
 tags: [gematria, calculator, iframe, open-source, numerology, tools]
 ---
@@ -20,7 +20,7 @@ I wanted my own spin on it—a free, open-source script I could embed on my page
 ### How to Use the Gematria Calculator 🛠️
 Here’s the magic tool in action:
 
-<iframe src="https://jasonbra1n.github.io/Gematria-Calculator/gematria-calculator.html" width="100%" height="600" frameborder="0" style="border: none;"></iframe>
+<iframe src="https://jasonbra1n.github.io/gematria-calculator/" width="100%" height="600" frameborder="0" style="border: none;"></iframe>
 
 1. **Enter Your Word(s)** ✍️  
    Type a word or phrase (e.g., your name, a team, or something quirky) into the text box. Spaces get ignored, so "Wayne Gretzky" becomes "WayneGretzky" behind the scenes.
